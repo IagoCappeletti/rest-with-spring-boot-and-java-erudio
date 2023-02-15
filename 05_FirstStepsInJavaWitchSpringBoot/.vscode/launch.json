@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroTesteApplication<primeiro-teste>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.erudio.primeiroteste.PrimeiroTesteApplication",
+            "projectName": "primeiro-teste",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
